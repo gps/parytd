@@ -1,0 +1,2 @@
+wsgiref==0.1.2
+youtube-dl==2014.06.26
